@@ -4,6 +4,14 @@
 
 Linux desktop utility for notifying users about domain password expiration and changing passwords in Samba AD / Microsoft Active Directory environments.
 
+<img width="1021" height="769" alt="pass0_2026-10-14_12-34" src="https://github.com/user-attachments/assets/71095c00-64af-4d43-8539-bb9fbd291a38" />
+
+<img width="405" height="329" alt="pass3_2026-10-15_11-06" src="https://github.com/user-attachments/assets/e5bb4668-39c5-4f78-a638-60a93fc09414" />
+
+<img width="847" height="330" alt="pass2_2026-10-15_11-06" src="https://github.com/user-attachments/assets/6c3dc411-4172-466a-81d3-ef578d089d97" />
+
+<img width="846" height="325" alt="pass1_2026-10-15_11-05" src="https://github.com/user-attachments/assets/16e325ba-a473-4691-8de9-df53fb532b49" />
+
 ## Features
 
 - Expiration queries over LDAP/GSSAPI using the user's Kerberos credential cache.
